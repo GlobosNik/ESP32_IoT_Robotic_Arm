@@ -1,6 +1,6 @@
 # ESP32 IoT Robotic Arm
 
-Control a robotic arm remotely using the ESP32 microcontroller and the Arduino IoT Cloud platform. This project allows you to move the robotic arm's base, hand, and gripper through a simple cloud dashboard.
+Control a robotic arm with 3 joints remotely using the ESP32 microcontroller and the Arduino IoT Cloud platform. This project allows you to move the robotic arm's base, hand, and gripper through a simple cloud dashboard.
 
 ---
 
